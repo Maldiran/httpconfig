@@ -1,5 +1,5 @@
 // This module handles basic configuration. It provides a function for reading environment variables and can set up a logger.
-package config
+package httpconfig
 
 import (
 	"fmt"
